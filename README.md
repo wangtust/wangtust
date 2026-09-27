@@ -33,3 +33,54 @@
 ### 🚀 From papers to products, from algorithms to GPUs.
 
 </div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Selected Projects
+
+### 📈 [Market Bot](https://github.com/wangtust/market-bot)
+Daily market intelligence bot covering stocks, FX, crypto, gold, crude oil and market news, with technical indicators, macro signals, AI-generated reports and Telegram delivery.
+
+### 🔮 [YiChart](https://github.com/wangtust/YiChart)
+AI-powered web application built with **Vue 3 + TypeScript + FastAPI + MySQL**, combining streaming LLM responses with traditional Chinese astrology tools.
+
+### 📚 [Paper Share](https://github.com/wangtust/paper_share)
+Collaborative research-reading workspace built with **MkDocs Material**, organizing papers and notes across LLMs, RAG, agents, multimodal learning, CV, NLP and systems.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wangtust&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangtust&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Keep learning. Keep building. Keep going deeper.
+
+</div>
