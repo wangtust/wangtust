@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science graduate student at **Xi'an Jiaotong University**
+- 🎓 **Jinan University** → Master's student in Computer Science at **Xi'an Jiaotong University**
 - 🤖 Interested in **Large Language Models, AI Agents and AI Systems**
 - 🧠 Exploring **Deep Learning, Multimodal Learning and model architectures**
 - ⚡ Learning and experimenting with **CUDA, GPU Computing and efficient inference**
