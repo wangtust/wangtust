@@ -55,30 +55,6 @@
 
 ---
 
-## 📌 Selected Projects
-
-### 📈 [Market Bot](https://github.com/wangtust/market-bot)
-Daily market intelligence bot covering stocks, FX, crypto, gold, crude oil and market news, with technical indicators, macro signals, AI-generated reports and Telegram delivery.
-
-### 🔮 [YiChart](https://github.com/wangtust/YiChart)
-AI-powered web application built with **Vue 3 + TypeScript + FastAPI + MySQL**, combining streaming LLM responses with traditional Chinese astrology tools.
-
-### 📚 [Paper Share](https://github.com/wangtust/paper_share)
-Collaborative research-reading workspace built with **MkDocs Material**, organizing papers and notes across LLMs, RAG, agents, multimodal learning, CV, NLP and systems.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wangtust&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangtust&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 Keep learning. Keep building. Keep going deeper.
